@@ -1,0 +1,3 @@
+class NavigatorScreenState {
+  NavigatorScreenState._();
+}
